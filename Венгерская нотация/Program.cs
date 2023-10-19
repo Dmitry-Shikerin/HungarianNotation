@@ -11,7 +11,7 @@ namespace Венгерская_нотация
         static void Main(string[] args)
         {
             int armySize = 10;
-            int coinsNumber = 10;
+            int coins = 10;
             string name = "Vladislav";
         }
     }
